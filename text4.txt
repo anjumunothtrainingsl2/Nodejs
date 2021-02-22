@@ -1,0 +1,5 @@
+This is the first session on nodejs.
+Hope the session is interesting
+Tomorrow also the session starts at 9 am sharpWe will be working with hapi.js as well. Happy day!!!This is the first session on nodejs.
+Hope the session is interesting
+Tomorrow also the session starts at 9 am sharp
